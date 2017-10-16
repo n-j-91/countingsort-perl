@@ -1,5 +1,5 @@
 # countingsort-perl
-Counting Sort Algorithm for Perl
+Counting Sort Algorithm for Standard Perl
 
 This is a simple implementation of counting sort algorithm in perl.
 
