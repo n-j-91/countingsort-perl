@@ -1,4 +1,4 @@
-#This is a simple implementation of counting sort algorithm in perl.
+#This is a simple implementation of counting sort algorithm using Standard Perl.
 
 
 #This sub routine takes two references as arguments.
